@@ -3,9 +3,11 @@ const EMPTY_HEART = '♡'
 const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
+document.querySelector("like-glyph").addEventListener('click', )
 
-
-
+function clickLike(){
+  
+}
 
 //------------------------------------------------------------------------------
 // Don't change the code below: this function mocks the server response
